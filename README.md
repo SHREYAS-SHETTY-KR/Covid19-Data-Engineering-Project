@@ -6,7 +6,7 @@ Welcome to the COVID-19 Data Engineering Project, an ambitious initiative design
 At its core, this project follows the Extract, Transform, Load (ETL) approach, enabling users to seamlessly extract, load, and transform data, ultimately unlocking valuable insights. Our primary mission is to create an accessible and efficient data engineering project tailored for the analysis of COVID-19 data.
 
 ## Architecture
-![Example Image]()
+![Example Image](https://github.com/Shreyas-028/Covid19-Data-Engineering-Project/blob/main/Images/Data_Pipeline_Architecture.drawio.png)
 
 ## Important Prerequisites
 To ensure the successful launch of your COVID-19 Data Engineering Project, there are several key prerequisites that need to be in place:
@@ -58,10 +58,12 @@ We're transforming our data model from a relational structure to a dimensional o
 
 **Before Data Modeling**:
 
-![Example Image]()
+<img src="https://github.com/Shreyas-028/Covid19-Data-Engineering-Project/blob/main/Images/Data_Model.drawio.png" width="1200" height="1400">
+
+
 **After Data Modeling**:
 
-![Example Image]()
+![Example Image](https://github.com/Shreyas-028/Covid19-Data-Engineering-Project/blob/main/Images/Data_Model_STAR_Schema.png)
 
 This transformation enhances our data's accessibility, making it easier to analyze and derive valuable insights. The STAR schema simplifies data relationships, ensuring that our data becomes a powerful resource for analysis and decision-making.
 
@@ -69,7 +71,7 @@ This transformation enhances our data's accessibility, making it easier to analy
 
 In addition to the data transformation, we have the opportunity to visualize our data using various powerful tools, including Tableau, Power BI, Looker, Amazon QuickSight, and several other visualization solutions.
 
-![Example Image]()
+![Example Image](https://github.com/Shreyas-028/Covid19-Data-Engineering-Project/blob/main/Images/COVID19_Viz.png)
 
 These visualization tools provide the means to explore, analyze, and present data in visually informative formats. By leveraging these tools, we can enhance our project's capabilities and enable stakeholders to gain deeper insights from the data we've curated and transformed.
 
