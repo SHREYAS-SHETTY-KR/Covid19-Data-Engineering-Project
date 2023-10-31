@@ -11,7 +11,7 @@ At its core, this project follows the Extract, Transform, Load (ETL) approach, e
 ## Important Prerequisites
 To ensure the successful launch of your COVID-19 Data Engineering Project, there are several key prerequisites that need to be in place:
 
-1.**IAM Role "s3-glue-role"** : This pivotal role is designed to empower AWS Glue with the permissions necessary to initiate AWS service calls on your behalf, ensuring a smooth data engineering process.
+1. **IAM Role "s3-glue-role"** : This pivotal role is designed to empower AWS Glue with the permissions necessary to initiate AWS service calls on your behalf, ensuring a smooth data engineering process.
 
 2. **Redshift Cluster Setup and VPC Security Configuration** : The setup of your Redshift cluster is the foundation of your project. Additionally, it's imperative to fine-tune the VPC security group by adding a new rule to allow inbound access from your IP address, creating a secure gateway for data.
 
